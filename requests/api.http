@@ -1,0 +1,7 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl":"https://www.amazon.com/dp/B07VNCM91Q/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B07VNCM91Q&pd_rd_w=p70oe&pf_rd_p=a64be657-55f3-4b6a-91aa-17a31a8febb4&pd_rd_wg=vuf5F&pf_rd_r=QX7SZZND0XTHP09VCNPK&pd_rd_r=60f0b3dd-8305-417a-a101-d84d24b55cc4&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyS0xDMFBZSE5ZRUpKJmVuY3J5cHRlZElkPUEwNTYzNTU3OUhZQUE3V01FRDZYJmVuY3J5cHRlZEFkSWQ9QTEwMDY0NjUxMU5MT1dUUTFUMU5TJndpZGdldE5hbWU9c3BfZGV0YWlsX3RoZW1hdGljJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="
+
+}
